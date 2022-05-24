@@ -1,5 +1,5 @@
 from django.db import models
-#this imports the user we created in django admin
+#this imports the super user we created in django admin
 from django.contrib.auth.models import User
 from django.urls import reverse
 

@@ -39,6 +39,7 @@ INSTALLED_APPS = [
     'django.contrib.sessions',
     'django.contrib.messages',
     'django.contrib.staticfiles',
+    # when adding a new app to a project, make sure to include it here
     'theblog', 
 ]
 
